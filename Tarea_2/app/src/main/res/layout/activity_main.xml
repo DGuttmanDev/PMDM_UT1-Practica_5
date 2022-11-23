@@ -22,5 +22,9 @@
 
     <include layout="@layout/content_main" />
 
+    <!--
+    Se ha borrado FloatingActionButton pero sigue apareciendo en el diseño de la app
+    -->
+
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
